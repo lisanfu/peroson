@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">sample8_11</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="p1">hello1</string>
+    <string name="p2">hello2</string>
+    <string name="p3">hello3</string>
+    <string name="p4">hello4</string>
+    <string name="p5">hello5</string>
+    <string name="selected_mood">今天的心情是：</string>
+    <string name="z1">故宫</string>
+    <string name="z2">长城</string>
+    <string name="z3">兵马俑</string>
+    <string name="z4">乐山大佛</string>
+    <string name="z5">山海关</string>
+</resources>
